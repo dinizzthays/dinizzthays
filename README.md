@@ -1,6 +1,5 @@
 ## Bem-vindo(a) ao meu perfil! 😁
 
- <div align="center">
   <a href="https://github.com/dinizzthays">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dinizzthays&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinizzthays&theme=dracula&hide_border=false&&layout=compact"/>
